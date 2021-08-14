@@ -1,5 +1,12 @@
 <template>
-    <h1>Welcome</h1>
+    <v-app>
+  <!-- Must have the app property -->
+  <v-app-bar app></v-app-bar>
+
+  <v-main>
+    Hello World
+  </v-main>
+</v-app>
 </template>
 
 <script>

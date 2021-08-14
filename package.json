@@ -26,6 +26,8 @@
     },
     "dependencies": {
         "@inertiajs/inertia": "^0.10.1",
-        "@inertiajs/inertia-vue": "^0.7.2"
+        "@inertiajs/inertia-vue": "^0.7.2",
+        "vuetify": "^2.5.8",
+        "ziggy-js": "^1.3.5"
     }
 }
